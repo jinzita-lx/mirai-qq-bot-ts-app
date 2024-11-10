@@ -31,25 +31,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "javascript.nodejs.core.library.configured.version": "18.20.4",
-    "javascript.nodejs.core.library.typings.version": "18.19.64",
-    "last_opened_file_path": "C:/Users/Jinzita/software/app",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_interpreter_path": "node",
-    "nodejs_package_manager_path": "npm",
-    "npm.serve.executor": "Run",
-    "ts.external.directory.path": "C:\\Users\\Jinzita\\software\\app\\Mirai-QQBot\\node_modules\\typescript\\lib",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.20.4&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.19.64&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Jinzita/software/app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;npm.serve.executor&quot;: &quot;Run&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Jinzita\\software\\app\\Mirai-QQBot\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Jinzita\software\app\Mirai-QQBot" />
@@ -90,7 +90,7 @@
       <workItem from="1731177756150" duration="95000" />
       <workItem from="1731177922831" duration="864000" />
       <workItem from="1731179172682" duration="353000" />
-      <workItem from="1731179684592" duration="18129000" />
+      <workItem from="1731179684592" duration="18483000" />
     </task>
     <task id="LOCAL-00001" summary="init: 火箭init project">
       <option name="closed" value="true" />
