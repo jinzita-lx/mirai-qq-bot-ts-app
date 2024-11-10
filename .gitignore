@@ -1,0 +1,4 @@
+/mcl/logs/*
+/mcl/config/Console/AutoLogin.yml
+/mcl/config/net.mamoe.mirai-api-http/setting.yml
+/Mirai-QQBot/node_modules/

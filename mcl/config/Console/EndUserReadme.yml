@@ -1,0 +1,5 @@
+data: 
+  'mirai-console.greeting': 42 F5 D8 0D 3D 45 B0 D3 E3 2C 5B 06 85 E8 92 18 BF 45 A6 29 A7 63 65 F8 8D CF 7C B5 83 4B 7A DC
+  'mirai-console.usage': DE E5 3F E3 E3 CB C7 A5 F6 44 4F C1 A9 50 91 C4 FA EB AD D3 59 E5 25 6B 91 65 3C 89 77 11 30 BE
+  'mirai-console.issuing': CF 05 3D 89 25 00 07 5B 93 45 E5 35 C7 67 AE 4A B6 2D 2D DC 9F F7 C9 39 16 7A F5 E0 93 C4 70 1A
+  'mirai-core.EncryptService.alert': 63 08 5D 65 85 84 F2 15 19 A9 FA CA B8 A8 B8 DE E5 AF 01 36 AE 33 3F E0 A6 E1 9B 71 45 84 68 D4

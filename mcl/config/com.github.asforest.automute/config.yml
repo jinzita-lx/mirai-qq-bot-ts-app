@@ -1,0 +1,16 @@
+dry-run: false
+groups-activated: [883636819]
+toleration: 2
+mute-duration: 86400
+kick-message: 广告给爷死！
+block-when-kick: false
+admins: [1759790073]
+report-with-base64: false
+report-template: |-
+  检测到 $SENDER_NAME($SENDER_QQ)
+  在QQ群聊 $GROUP_NAME($GROUP_NUMBER) 的发言
+  违反了关键字【$KEYWORD】
+  这是第$CURRENT_TIME次，当达到第$MAX_TIMES时会被请出群聊
+  当前动作：$ACTIONS
+  以下是消息样本：
+  $SAMPLE
